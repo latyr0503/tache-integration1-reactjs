@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:wght@700;900&display=swap');
+body{
+  font-family: 'Fraunces', serif;
+}
+#barreDeNav, .sectionbleu, .banner{
+  background-color: #3DBEFF;
+}
+
+.arrow{
+  color: white;
+  font-size: 150px;
+  display: flex;
+
+}
+/* debut-SectionOne */
+
+.sectionjaune{
+  background-color: #FED501;
+}
+.sectionrose{
+  background-color: #fe7663;
+}
+.sectionvert{
+  background-color: #7EC8B8;
+}
+.barreRose{
+  border-bottom: 5px solid #fe7663 !important;
+}
+.barreJaune{
+  border-bottom: 5px solid #FED501 !important;
+}
+.sectionvert h2, .sectionvert p{
+  position: relative;
+  top: -125px;
+}
+.sectionbleu h2 , .sectionbleu p {
+  position: relative;
+  top: -125px;
+}
+/* fin-SectionOne */
+/* Testimonials */
+.testimonialImg{
+  border-radius: 50%;
+  width:100px
+}
+/* fin testimonials */
+/* gallery  */
+
+.galleryCol {
+  padding: 0 !important;
+}
+/* fin gallery  */
+/* footer */
+
+.footer{
+  background-color: #7EC8B8;
+}
+.iconFooter{
+  font-size: 25px;
+}
+/* fin footer */
