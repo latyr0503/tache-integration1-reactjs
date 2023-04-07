@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/tache-integration1-reactjs/static/css/main.f5c3ff70.css",
+    "main.js": "/tache-integration1-reactjs/static/js/main.0371edd6.js",
+    "static/js/787.d4dcf670.chunk.js": "/tache-integration1-reactjs/static/js/787.d4dcf670.chunk.js",
+    "static/media/OrangeGM.png": "/tache-integration1-reactjs/static/media/OrangeGM.21378e58dbe537384204.png",
+    "static/media/asset_13-removebg-preview.png": "/tache-integration1-reactjs/static/media/asset_13-removebg-preview.88e5118459d58ce31e5d.png",
+    "static/media/asset_12-removebg-preview.png": "/tache-integration1-reactjs/static/media/asset_12-removebg-preview.a9846a4db3ba68e0b9d9.png",
+    "static/media/asset 7.jpeg": "/tache-integration1-reactjs/static/media/asset 7.df1d9d8460e873924250.jpeg",
+    "static/media/oeuf.png": "/tache-integration1-reactjs/static/media/oeuf.0a28604031e4fdd6fa01.png",
+    "static/media/tasse.png": "/tache-integration1-reactjs/static/media/tasse.37eebbd1b0c087b0bedb.png",
+    "static/media/asset 10.jpeg": "/tache-integration1-reactjs/static/media/asset 10.09b72f4fbfbf08579f9d.jpeg",
+    "static/media/asset 8.jpeg": "/tache-integration1-reactjs/static/media/asset 8.49f4212bc650862672a7.jpeg",
+    "static/media/asset 9.jpeg": "/tache-integration1-reactjs/static/media/asset 9.461ff4214c3ac822dfff.jpeg",
+    "index.html": "/tache-integration1-reactjs/index.html",
+    "main.f5c3ff70.css.map": "/tache-integration1-reactjs/static/css/main.f5c3ff70.css.map",
+    "main.0371edd6.js.map": "/tache-integration1-reactjs/static/js/main.0371edd6.js.map",
+    "787.d4dcf670.chunk.js.map": "/tache-integration1-reactjs/static/js/787.d4dcf670.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5c3ff70.css",
+    "static/js/main.0371edd6.js"
+  ]
+}
